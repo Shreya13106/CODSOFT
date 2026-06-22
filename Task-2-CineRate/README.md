@@ -107,7 +107,7 @@ CineRate/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Shreya13106/CineRate.git
+git clone https://github.com/Shreya13106/CODSOFT.git
 cd CineRate
 
 
